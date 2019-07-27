@@ -1,7 +1,9 @@
-.img-container{
-    margin-left: 250px;
+img{
+    margin-left: 400px;
     margin-top: 20px;
     align-content: center;
+    width: 600px;
+    height: 300px;
 }
 .top-nav-bar{
     overflow: hidden;
